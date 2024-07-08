@@ -1,0 +1,21 @@
+.lang_box {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+button {
+  border: 1px solid teal;
+  color: teal;
+  border-radius: 5px;
+}
+button:hover {
+  border: 1px solid tomato;
+  color: tomato;
+}
+h1,
+h2,
+p {
+  border: 1px solid grey;
+  margin: 20px;
+  padding: 20px;
+}
