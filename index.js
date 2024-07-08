@@ -1,7 +1,7 @@
-import { en } from "./jx/en.js";
-import { fr } from "./jx/fr.js";
-import { refs } from "./jx/refs.js";
-import { ua } from "./jx/ua.js";
+import { en } from "./js/en.js";
+import { fr } from "./js/fr.js";
+import { refs } from "./js/refs.js";
+import { ua } from "./js/ua.js";
 
 const {
   btn: { btn_ua, btn_en, btn_fr },
